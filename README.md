@@ -7,7 +7,7 @@ Home: https://getclipboard.app
 
 Package license: GPL-3.0-or-later
 
-Summary: Your new, **_ridonkuliciously_** smart clipboard manager
+Summary: Your new, ridonkuliciously smart clipboard manager
 
 Development: https://github.com/Slackadays/Clipboard
 
