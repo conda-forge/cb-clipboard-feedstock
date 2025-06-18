@@ -1,5 +1,5 @@
 {% set name = "Clipboard" %}
-{% set version = "0.9.1" %}
+{% set version = "0.10.0" %}
 
 package:
   name: cb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Slackadays/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: b59f7111c2de0369d80a379503ac056e33c59be34596d72cda600e4115002b60
+  sha256: 741717ee505a7852fab5c69740b019e2b33f81d948232894ce294ed0a55e70fb
 
 build:
   number: 0
@@ -37,7 +37,7 @@ about:
   license: GPL-3.0-or-later
   license_family: GPL3
   license_file: LICENSE
-  summary: Your new, **_ridonkuliciously_** smart clipboard manager
+  summary: Your new, ridonkuliciously smart clipboard manager
   description: |
     The Clipboard Project (CB for short) is the oh-so-awesome
     clipboard manager that's just like a second brain.
