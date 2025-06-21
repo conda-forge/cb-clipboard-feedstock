@@ -3,7 +3,7 @@ About cb-clipboard-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cb-clipboard-feedstock/blob/main/LICENSE.txt)
 
-Home: https://getclipboard.app
+Home: https://getclipboard.app/
 
 Package license: GPL-3.0-or-later
 
@@ -16,7 +16,6 @@ Documentation: https://getclipboard.app/docs
 The Clipboard Project (CB for short) is the oh-so-awesome
 clipboard manager that's just like a second brain.
 It's fast and lightweight, feature packed, and super user friendly.
-
 
 Current build status
 ====================
